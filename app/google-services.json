@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "559215588382",
+    "firebase_url": "https://vchat-9105e.firebaseio.com",
+    "project_id": "vchat-9105e",
+    "storage_bucket": "vchat-9105e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559215588382:android:e0436ef4b8ebfbfa45ea0f",
+        "android_client_info": {
+          "package_name": "com.mamun.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559215588382-che0phbt4h8hnsmqeds2ca4caqd8fuqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUN_9Um2kNmbgSaF3t8cTFd2eQMomOYtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559215588382-che0phbt4h8hnsmqeds2ca4caqd8fuqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559215588382:android:b9dc659c808ebdae45ea0f",
+        "android_client_info": {
+          "package_name": "com.vcalling.mdashikulislam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559215588382-che0phbt4h8hnsmqeds2ca4caqd8fuqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUN_9Um2kNmbgSaF3t8cTFd2eQMomOYtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559215588382-che0phbt4h8hnsmqeds2ca4caqd8fuqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
